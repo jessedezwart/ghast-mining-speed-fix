@@ -16,7 +16,7 @@ displayName="${mod_name}" #mandatory
 #authors=""
 
 description='''
-Example mod description.
+Removes the airborne mining speed penalty while riding a happy ghast. The multiplier is configurable.
 '''
 
 #[[mixins]]
